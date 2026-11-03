@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+motor
+pydantic
+pydantic-settings
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+scikit-learn
+xgboost
+pandas
+numpy
+joblib
+python-dotenv
